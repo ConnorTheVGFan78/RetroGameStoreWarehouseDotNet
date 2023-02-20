@@ -1,0 +1,13 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Comic Sans MS';
+	font-size: 16px;
+    text-align: center;
+}
+h1 {
+    font-size: 72px;
+}
+footer {
+    font-size: 12px;
+}
