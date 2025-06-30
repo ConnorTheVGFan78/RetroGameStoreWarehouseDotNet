@@ -23,14 +23,14 @@ footer {
 }
 /*CONTAINER DIV*/
 #container {
-	max-width: 1200px;
+	max-width: 800px;
 	margin: 0px auto;
 	padding: 0px 20px;
 }
 /*MAIN DIV*/
 #main {
 	background-color: white;
-	background-image: linear-gradient(to bottom, white, rgb(196, 196, 196));
+	background-image: linear-gradient(to bottom, white, rgb(211, 211, 211));
 	color: black;
 	text-align: left;
 	padding-left: 10px;
@@ -72,4 +72,8 @@ footer {
 	font-weight: bold;
 	color: cyan;
 	max-height: 20px;
+
+	a {
+		color: cyan;
+	}
 }
